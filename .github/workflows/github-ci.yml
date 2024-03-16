@@ -62,7 +62,6 @@ jobs:
       - name: Install Graphviz
         run: choco install graphviz
       - name: Install Packages
-      - name: Install Packages
         working-directory: ${{ env.PYTHON_PACKAGE_INST_PATH }}
         run: ${{ env.PYTHON_PACKAGE_INST_FILE }}
       - name: Run Doxygen
