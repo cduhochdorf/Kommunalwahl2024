@@ -26,15 +26,16 @@ var NAVTREE =
 [
   [ "CDU", "index.html", [
     [ "Willkommen", "index.html", null ],
-    [ "Kandidaten", "_kandidaten.html", null ],
+    [ "Kandidaten 👥", "_kandidaten.html", null ],
     [ "Thema 1", "_thema1.html", null ],
-    [ "Thema 2", "_thema2.html", null ]
+    [ "Thema 2", "_thema2.html", null ],
+    [ "Impressum ✉", "_impressum.html", null ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"_kandidaten.html"
+"_impressum.html"
 ];
 
 var SYNCONMSG = 'Klicken um Panelsynchronisation auszuschalten';

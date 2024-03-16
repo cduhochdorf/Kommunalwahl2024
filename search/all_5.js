@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]]
+  ['liebe_20hochdorfer_0',['Liebe Hochdorferinnen, liebe Hochdorfer!',['../index.html#autotoc_md2',1,'']]],
+  ['liebe_20hochdorferinnen_20liebe_20hochdorfer_1',['Liebe Hochdorferinnen, liebe Hochdorfer!',['../index.html#autotoc_md2',1,'']]]
 ];
