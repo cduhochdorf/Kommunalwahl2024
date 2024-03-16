@@ -44,6 +44,9 @@ WARNING_FAIL = "FAIL_ON_WARNINGS"
 
 L_DEFAULT_FILE_PATTERN = []
 
+S_ICON_FIRST = """<link rel="icon" type="image/x-icon" href="""
+S_ICON_LAST = """>"""
+
 S_DEFAULT = "_DEFAULT_KEY"  # this values not set in doxyfile
 S_AUTO = "_AUTO_KEY"  # this values not set in doxyfile and you will get a warning if forget to override this value
 L_OVERRIDE = [S_DEFAULT, S_AUTO]  # this values are possible to override with global settings
