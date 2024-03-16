@@ -34,9 +34,6 @@ env:
   PYTHON_PACKAGE_INST_FILE: install_packages.bat
   DOXYGEN_OUTPUT_NAME: Output_Doxygen
   DOXYGEN_OUTPUT_PATH: ./Documentation/DoxygenCreator/Output_Doxygen
-  BINARY_EXE_NAME: bin_Exe
-  BINARY_SETUP_NAME: bin_Setup
-  BINARY_PATH: ./Executable/bin
 
 #--------------------------------------------------------------------------------
 # WORKFLOW TRIGGER
@@ -45,7 +42,7 @@ on:
   push:
     branches:
       - working
-    workflow_dispatch:
+  workflow_dispatch:
 
 #--------------------------------------------------------------------------------
 # WORKFLOW JOBS
@@ -65,9 +62,6 @@ jobs:
       - name: Install Packages
         working-directory: ${{ env.PYTHON_PACKAGE_INST_PATH }}
         run: ${{ env.PYTHON_PACKAGE_INST_FILE }}
-      - name: Run PyPreprocessor
-        working-directory: ./Test
-        run: python py_preprocessor.py -p True
       - name: Run Doxygen
         working-directory: ./Documentation/DoxygenCreator
         run: python doxygen_creator.py
@@ -89,25 +83,7 @@ jobs:
         with:
           name: ${{ env.DOXYGEN_OUTPUT_NAME }}
           path: ${{ env.DOXYGEN_OUTPUT_PATH }}
-      - name: Delete gh-pages branch
-        if: inputs.documentation == 'clean publish'
-        run: |
-          git checkout gh-pages
-          git push origin --delete gh-pages
-      - name: Set up Python
-        if: github.event_name == 'push'
-        uses: actions/setup-python@v4
-        with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          architecture: ${{ env.PYTHON_ARCH }}
-      - name: Get prerelease status
-        if: github.event_name == 'push'
-        shell: powershell
-        run: |
-          $version = $(python -c "from Source.version import PRERELEASE_BUILD; print(PRERELEASE_BUILD)")
-          echo "prerelease_version=$version" >> $env:GITHUB_ENV
       - name: Deploy to Github Pages
-        if: (github.event_name != 'push') || (env.prerelease_version == 'false')
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
