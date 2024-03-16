@@ -1,4 +1,4 @@
-\page Kandidaten Kandidaten
+\page Kandidaten Kandidaten 👥
 
 \tableofcontents
 
@@ -10,7 +10,7 @@
 
 ![](Documentation/img/profile/person.jpg)
 
-Vostellungstext
+Vorstellungstext
 
 ## Kandidat 2
 
@@ -20,4 +20,4 @@ Vostellungstext
 
 ![](Documentation/img/profile/person.jpg)
 
-Vostellungstext
+Vorstellungstext
