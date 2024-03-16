@@ -1,0 +1,7 @@
+# General
+pip==23.3.2
+numpy==1.26.3
+
+# Dokumentation
+astunparse==1.6.3
+doxygen-interface==0.0.1
