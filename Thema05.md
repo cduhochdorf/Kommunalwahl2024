@@ -1,0 +1,33 @@
+\page Thema05_8md TOP 5: Schule und Schulentwicklung
+
+Der Rechtsanspruch auf Ganztagsbetreuung
+für Kinder im Grundschulalter kommt
+ab dem Schuljahr 2026/27. Der Rechtsanspruch
+wird schrittweise, beginnend mit
+Klasse 1, umgesetzt.
+
+Ganztägige Bildungs- und Betreuungsangebote
+unterstützen eine bessere Vereinbarkeit
+von Familie und Beruf und fördern
+die Teilhabechancen von Schülerinnen
+und Schülern.
+Wir werden aktiv daran mitarbeiten und
+sämtliche Schritte unterstützen, gute
+Bildungs- und Betreuungsangebote für
+unsere Kinder zu gestalten.
+
+![](Documentation/img/schule.jpg)
+
+Jedes Kind soll die Möglichkeit haben, ein
+schulisches Ganztagsangebot kostenfrei
+in Anspruch zu nehmen. Darüber hinaus
+kann die Schulkindbetreuung integriert
+werden.
+
+Dazu bedarf es unter anderem eines entsprechenden
+Raumkonzeptes. An unserer Breitwiesenschule
+stehen bauliche Veränderungen und
+Erweiterungen an. Gerne möchten wir Ideen für
+flexible Raumnutzungsmodelle, altersspezifische
+Freizeit- und Lernräume für eine zukunftsorientierte
+Schule einbringen.

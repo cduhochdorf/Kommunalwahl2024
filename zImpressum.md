@@ -10,7 +10,7 @@ Kümmelstraße 6
 Deutschland
 
 Kontakt:  
-Telefon: 07153/58401  
+Telefon: +49 172 7306838   
 CDU Kreisverband Esslingen: https://www.cdu-kv-esslingen.de/vor-ort/cdu-gemeindeverband-hochdorf/  
 Aktiv in Hochdorf: https://www.aktiv-in.de/cdu
 

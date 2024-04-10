@@ -1,0 +1,17 @@
+\page Thema01_8md TOP 1: Öffentlichkeit & Transparenz
+
+Der Startschuss ist gefallen, aber es gilt am Ball zu bleiben!
+
+Ausführliche Informationen sollen in Zukunft nicht nur über Homepage, Instagram,
+Facebook und Co., sondern auch über einen eigenen WhatsApp-Kanal der
+Gemeinde zu finden sein. Um möglichst alle Bürgerinnen und Bürger zu erreichen,
+müssen auch die klassischen Printmedien wie Zeitung und Gemeindeanzeiger genutzt
+werden. Ein sehr gutes Beispiel für mangelnde Kommunikation und Transparenz
+war das Thema „Vollsperrung L1201“!
+
+Nur durch eine transparente Entscheidungsfindung kann das Vertrauen der Bürger
+in die Gemeindeverwaltung gestärkt und die Akzeptanz von Entscheidungen erhöht
+werden. Die Bürgerinnen und Bürger haben den Anspruch und das Recht,
+informiert zu werden, dafür setzen wir uns weiterhin ein!
+
+![](Documentation/img/transparenz.jpg)

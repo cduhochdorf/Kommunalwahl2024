@@ -1,0 +1,36 @@
+\page Thema07_8md TOP 7: Finanzen der Gemeinde Hochdorf
+
+Die Gemeinde Hochdorf steht vor großen finanziellen Herausforderungen. Es ist heute wichtiger denn je, mit soliden Finanzen
+wichtige Zukunftsinvestitionen tätigen zu können. Leider werden auch von der großen Politik in Berlin immer mehr Aufgaben auf
+die Kommunen abgewälzt, was den finanziellen Spielraum von Gemeinden wie Hochdorf erheblich einschränkt.
+
+Aktuell steht für Hochdorf eine lange Liste von Investitionen an:
+
+- Schulerweiterung (2,5-3-zügig) und auswärtige Schulinvestitionen
+- Kindergärten
+- Baugebiet Obeswiesen/Mittleres Feld
+- Mobilität - Straßenbau (hoher Sanierungsbedarf), Rad- und Gehwege,
+- Brückensanierungen
+- Zentralisierung und Modernisierung des Zweckverbandes Ho/Rei
+- Talbachsanierung und Hochwasserschutz
+- Park- und Festplatz Breitwiesenareal
+- Sanierung Breitwiesenhalle
+- Sicherstellung der medizinischen Versorgung (z.B. MVZ)
+- Folgekosten verschiedener Investitionen
+
+![](Documentation/img/finanzen.jpg)
+
+Im letzten Hochdorfer Haushaltsplan wurde bereits
+ein Großteil der genannten Investitionen auch für den
+Zeitraum 2024 bis 2027 dargestellt. Dies sind bereits
+über 20 Millionen Euro, wobei hier noch nicht alle
+genannten Aufgaben abgedeckt sind. Bereits hierfür
+wird laut Plan eine Kreditaufnahme von ca. 5 Mio. €
+erforderlich sein, um einen handlungsfähigen Zahlungsmittelbestand
+zu erreichen. Sollten alle Projekte
+realisiert werden, wären weitere Millionen € erforderlich.
+
+Fazit ist, dass der zukünftige Gemeinderat mit großer
+Sorgfalt und Vernunft über Maßnahmen mit großen
+finanziellen Auswirkungen entscheiden muss. Nicht
+unbedingt notwendige Ausgaben sind zu vermeiden.

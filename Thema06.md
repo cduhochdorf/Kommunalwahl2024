@@ -1,0 +1,14 @@
+\page Thema06_8md TOP 6: Digitalisierung
+
+Mit der Online-Terminvergabe für das
+Bürgerbüro können Bürgerinnen und
+Bürger bequem von zu Hause aus Termine
+für verschiedene Anliegen vereinbaren. So
+können lange Wartezeiten vermieden und
+ein reibungsloser Ablauf im Bürgerbüro
+gewährleistet werden. Ein weiterer wichtiger
+Baustein für mehr Bürgernähe ist
+ein „Digitaler-Kümmerer-Kasten“, in dem
+auch Fotos hochgeladen werden können.
+
+![](Documentation/img/digital.jpg)
