@@ -26,10 +26,7 @@ var NAVTREE =
 [
   [ "CDU", "index.html", [
     [ "Willkommen", "index.html", null ],
-    [ "Kandidaten 👥", "_kandidaten.html", null ],
-    [ "Thema 1", "_thema1.html", null ],
-    [ "Thema 2", "_thema2.html", null ],
-    [ "Impressum ✉", "_impressum.html", null ]
+    [ "Datenschutz & Impressum ✉", "_impressum.html", null ]
   ] ]
 ];
 

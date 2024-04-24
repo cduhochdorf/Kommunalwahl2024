@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['1_0',['Thema 1',['../_thema1.html',1,'']]]
+  ['datenschutz_20impressum_20✉_0',['Datenschutz &amp; Impressum ✉',['../_impressum.html',1,'']]]
 ];

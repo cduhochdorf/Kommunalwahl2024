@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['kandidaten_20👥_0',['Kandidaten 👥',['../_kandidaten.html',1,'']]]
+  ['✉_0',['Datenschutz &amp; Impressum ✉',['../_impressum.html',1,'']]]
 ];

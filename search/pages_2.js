@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['impressum_20✉_0',['Impressum ✉',['../_impressum.html',1,'']]]
+  ['willkommen_0',['Willkommen',['../index.html',1,'']]]
 ];

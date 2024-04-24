@@ -1,8 +1,8 @@
 var indexSectionsWithContent =
 {
-  0: "12hiklrtwz✉👥",
-  1: "krtz",
-  2: "12iktw✉👥"
+  0: "adhilrstwz§✉",
+  1: "rz",
+  2: "diw✉"
 };
 
 var indexSectionNames =
