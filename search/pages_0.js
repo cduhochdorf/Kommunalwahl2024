@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['datenschutz_20impressum_20✉_0',['Datenschutz &amp; Impressum ✉',['../_impressum.html',1,'']]]
+  ['1_3a_20öffentlichkeit_20transparenz_0',['TOP 1: Öffentlichkeit &amp; Transparenz',['../_thema01_8md.html',1,'']]]
 ];

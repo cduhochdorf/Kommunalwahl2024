@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['impressum_20✉_0',['Datenschutz &amp; Impressum ✉',['../_impressum.html',1,'']]]
+  ['2_3a_20baugebiet_20und_20quartiersentwicklung_0',['TOP 2: Baugebiet und Quartiersentwicklung',['../_thema02_8md.html',1,'']]]
 ];

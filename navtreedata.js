@@ -26,6 +26,17 @@ var NAVTREE =
 [
   [ "CDU", "index.html", [
     [ "Willkommen", "index.html", null ],
+    [ "Kandidaten 👥", "_kandidaten_8md.html", null ],
+    [ "Rückblick", "_thema00_8md.html", null ],
+    [ "TOP 1: Öffentlichkeit & Transparenz", "_thema01_8md.html", null ],
+    [ "TOP 2: Baugebiet und Quartiersentwicklung", "_thema02_8md.html", null ],
+    [ "TOP 3: Die Talbachrenaturierung", "_thema03_8md.html", null ],
+    [ "TOP 4: CO2 - Neutralität und eigene dezentrale Energieversorgung auf kommunaler Ebene", "_thema04_8md.html", null ],
+    [ "TOP 5: Schule und Schulentwicklung", "_thema05_8md.html", null ],
+    [ "TOP 6: Digitalisierung", "_thema06_8md.html", null ],
+    [ "TOP 7: Finanzen der Gemeinde Hochdorf", "_thema07_8md.html", null ],
+    [ "TOP 8: Bürgerschaftliches Engagement - Vereinsleben", "_thema08_8md.html", null ],
+    [ "Downloads", "_thema09_8md.html", null ],
     [ "Datenschutz & Impressum ✉", "_impressum.html", null ]
   ] ]
 ];

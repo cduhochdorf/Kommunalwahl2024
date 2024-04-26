@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['im_20sinne_20des_20§5_20tmg_0',['Anbieter im Sinne des §5 TMG',['../_impressum.html#autotoc_md1',1,'']]],
-  ['impressum_20✉_1',['Datenschutz &amp; Impressum ✉',['../_impressum.html',1,'']]]
+  ['4_3a_20co2_20neutralität_20und_20eigene_20dezentrale_20energieversorgung_20auf_20kommunaler_20ebene_0',['TOP 4: CO2 - Neutralität und eigene dezentrale Energieversorgung auf kommunaler Ebene',['../_thema04_8md.html',1,'']]]
 ];
