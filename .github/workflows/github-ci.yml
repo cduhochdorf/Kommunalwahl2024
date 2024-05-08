@@ -53,9 +53,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           architecture: ${{ env.PYTHON_ARCH }}
@@ -68,7 +68,7 @@ jobs:
         working-directory: ./Documentation/DoxygenCreator
         run: python doxygen_creator.py
       - name: Upload Doxygen Output
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: ${{ env.DOXYGEN_OUTPUT_NAME }}
           path: ${{ env.DOXYGEN_OUTPUT_PATH }}
@@ -79,9 +79,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Download Doxygen Output
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: ${{ env.DOXYGEN_OUTPUT_NAME }}
           path: ${{ env.DOXYGEN_OUTPUT_PATH }}
