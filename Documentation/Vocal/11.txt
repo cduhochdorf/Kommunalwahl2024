@@ -1,4 +1,4 @@
-\page Thema01_8md TOP 1: Öffentlichkeit & Transparenz
+Öffentlichkeit & Transparenz
 
 Der Startschuss ist gefallen, aber es gilt am Ball zu bleiben!
 
@@ -8,5 +8,3 @@ Ein sehr gutes Beispiel für mangelnde Kommunikation und Transparenz war das The
 
 Nur durch eine transparente Entscheidungsfindung kann das Vertrauen der Bürger in die Gemeindeverwaltung gestärkt und die Akzeptanz von Entscheidungen erhöht werden.
 Die Bürgerinnen und Bürger haben den Anspruch und das Recht, informiert zu werden, dafür setzen wir uns weiterhin ein!
-
-![](Documentation/img/transparenz.jpg)

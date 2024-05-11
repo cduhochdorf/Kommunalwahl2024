@@ -361,8 +361,8 @@ von der KiTa über Kantinen, ärztlichem
 Dienst und den Büroeinheiten eine funktionierende
 und beschwerdefreie Gebäudeinfrastruktur
 an ihren Arbeitsplätzen
-vorfi nden. Ein besonderes Augenmerk habe
-ich dabei auf einen Effi zienten und nachhaltigen
+vorfinden. Ein besonderes Augenmerk habe
+ich dabei auf einen Effizienten und nachhaltigen
 Gebäudebetrieb und unterstütze
 dabei die Stadt Stuttgart bei ihren sehr
 ambitionierten CO2 Reduzierungszielen. Mit

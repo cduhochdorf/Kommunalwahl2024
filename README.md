@@ -2,23 +2,17 @@
 
 ## Liebe Bürgerinnen und Bürger von Hochdorf,
 
-am 09. Juni 2024 stehen wichtige Wahlen an, bei denen Sie über die Aufstellung des Hochdorfer
-Gemeinderats für die nächsten 5 Jahre entscheiden.
+am 09. Juni 2024 stehen wichtige Wahlen an, bei denen Sie über die Aufstellung des Hochdorfer Gemeinderats für die nächsten 5 Jahre entscheiden.
 
-Auf unserem Wahlvorschlag fi nden Sie engagierte Personen, die mit Hochdorf eng verbunden
-sind und vielfältige Kenntnisse und Erfahrungen aus den unterschiedlichsten Bereichen mitbringen.
-Sie alle sind bereit, als Gemeinderäte Verantwortung zum Wohle unserer Gemeinde zu
-übernehmen und im Dialog mit den Bürgerinnen und Bürgern zu handeln.
+Auf unserem Wahlvorschlag finden Sie engagierte Personen, die mit Hochdorf eng verbunden sind und vielfältige Kenntnisse und Erfahrungen aus den unterschiedlichsten Bereichen mitbringen.
+Sie alle sind bereit, als Gemeinderäte Verantwortung zum Wohle unserer Gemeinde zu übernehmen und im Dialog mit den Bürgerinnen und Bürgern zu handeln.
 
 ![](Documentation/img/title.jpg)
 
-Auf den folgenden Seiten können Sie sich über unsere Kandidaten für den
-Gemeinderat informieren.
+Auf den folgenden Seiten können Sie sich über unsere Kandidaten für den Gemeinderat informieren.
 
-Wir bitten alle Bürgerinnen und Bürger, von ihrem Wahlrecht Gebrauch zu
-machen und uns ihre Stimmen zu geben. Die CDU wird auf verschiedenen
-Plattformen wie Facebook, Instagram und anderen Medien Informationen
-und Wahlaufrufe zur Verfügung stellen.
+Wir bitten alle Bürgerinnen und Bürger, von ihrem Wahlrecht Gebrauch zu machen und uns ihre Stimmen zu geben.
+Die CDU wird auf verschiedenen Plattformen wie Facebook, Instagram und anderen Medien Informationen und Wahlaufrufe zur Verfügung stellen.
 
 ## So wählen Sie richtig:
 
@@ -26,14 +20,10 @@ und Wahlaufrufe zur Verfügung stellen.
 
 ## Hier können Sie mit uns Ihre Anliegen diskutieren:
 
-- Bauernmarkt, am 04.05.
-und 01.06. ab 09:00 Uhr
-- Kandidatenvorstellung
-in der Gaststätte Hasenheim,
-am 16.05. ab 18:00 Uhr
+- Bauernmarkt, am 04.05. und 01.06. ab 09:00 Uhr
+- Kandidatenvorstellung in der Gaststätte Hasenheim, am 16.05. ab 18:00 Uhr
 
-Aktuelle Infos und Termine
-finden Sie auf unserer Website.
+Aktuelle Infos und Termine finden Sie auf unserer Website.
 
 ![](Documentation/img/Wahl.jpg)
 
