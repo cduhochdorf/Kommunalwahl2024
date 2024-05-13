@@ -644,7 +644,7 @@ if __name__ == "__main__":
     logo_small_path = "Documentation/img/favicon.png"
     doxygen_creator = DoxygenCreator(f"{S_MAIN_FOLDER_FOLDER}{logo_path}")
     doxygen_creator.set_configuration("PROJECT_NAME", "CDU")
-    doxygen_creator.set_configuration("PROJECT_NUMBER", "Hochdorf")
+    doxygen_creator.set_configuration("PROJECT_NUMBER", "Ortsverband Hochdorf")
     doxygen_creator.set_configuration("PROJECT_BRIEF", "Kommunalwahl 2024")
     doxygen_creator.set_configuration("PROJECT_LOGO", f"{S_MAIN_FOLDER_FOLDER}{logo_path}")
     doxygen_creator.set_configuration("INPUT", S_MAIN_FOLDER_FOLDER)
