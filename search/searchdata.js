@@ -14,8 +14,8 @@ var indexSectionNames =
 
 var indexSectionLabels =
 {
-  0: "Alle",
-  1: "Dateien",
-  2: "Seiten"
+  0: "All",
+  1: "Files",
+  2: "Pages"
 };
 
