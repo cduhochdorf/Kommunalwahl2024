@@ -57,7 +57,7 @@ S_PYTHON_PATTERN = "*.py"
 L_DEFAULT_FILE_PATTERN = []
 
 if B_PLANTUML_SUPPORT:
-    PLANT_UML_VERSION = "1.2024.6"
+    PLANT_UML_VERSION = "1.2024.7"
     S_PLANTUML_JAR_URL = f"https://github.com/plantuml/plantuml/releases/download/v{PLANT_UML_VERSION}/plantuml-{PLANT_UML_VERSION}.jar"
     S_PLANTUML_JAR_NAME = "plantuml.jar"
     S_PLANTUML_PATH = "./"  # need plantuml.jar in this folder
@@ -126,6 +126,7 @@ class DoxygenCreator():
         "HTML_COLORSTYLE_SAT": 255,  # required for Doxygen Awesome
         "HTML_COLORSTYLE_GAMMA": 113,  # required for Doxygen Awesome
         "HTML_DYNAMIC_SECTIONS": YES,
+        "HTML_COPY_CLIPBOARD": NO,  # required for Doxygen Awesome
         "DISABLE_INDEX": NO,  # required for Doxygen Awesome
         "GENERATE_TREEVIEW": YES,  # required for Doxygen Awesome
         "FULL_SIDEBAR": NO,  # required for Doxygen Awesome
